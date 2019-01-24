@@ -1,8 +1,8 @@
 {
     "dependencies": {
-        "sys.zerynth.armgcc": "r2.1.2",
-        "sys.zerynth.bossac": "r2.1.2",
-        "vhal.zerynth.armcmx_atmelsam3x": "r2.1.2"
+        "sys.zerynth.armgcc": "r2.2.0",
+        "sys.zerynth.bossac": "r2.2.0",
+        "vhal.zerynth.armcmx_atmelsam3x": "r2.2.0"
     },
     "description": "Add support for FlipNClick",
     "fullname": "board.zerynth.flipnclick_sam3x",
@@ -22,6 +22,6 @@
     ],
     "repo": "official",
     "title": "FlipNClick SAM3X Support Package",
-    "version": "r2.1.2",
+    "version": "r2.2.0",
     "whatsnew": ""
 }
