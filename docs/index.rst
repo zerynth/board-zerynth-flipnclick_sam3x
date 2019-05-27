@@ -63,7 +63,9 @@ The device can operate on an external supply of 6 to 20 volts. If supplied with 
 Connect, Register, Virtualize and Program
 *****************************************
 
-The Flip & Click Programming port is connected to an ATmega16U2, which provides a virtual COM port to software on a connected computer. To recognize the device, **Windows** machines requires drivers that can be downloaded from `the Arduino download page <http://www.arduino.cc/en/Main/Software>`_, while **OSX** and **Linux** machines will recognize the device as a COM port automatically. Unfortunately drivers only downloadable package is not yet available on the Arduino website.
+The Flip & Click Programming port is connected to an ATmega16U2, which provides a virtual COM port to software on a connected computer, allowing for a seamless virtualization of the device.
+
+.. note:: Drivers for the FTDI can be downloaded `here <http://www.ftdichip.com/Drivers/VCP.htm>`_ and are needed for **Windows and Mac platforms**.
 
 .. note:: **For Linux Platform**: to allow the access to serial ports the user needs read/write access to the serial device file. Adding the user to the group, that owns this file, gives the required read/write access:
 				
