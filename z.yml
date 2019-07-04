@@ -1,0 +1,16 @@
+---
+description: Add support for FlipNClick
+fullname: board.zerynth.flipnclick_sam3x
+info:
+    board: MikroElektronika Flip-n-Click
+    chip_manufacturer: Microchip/Atmel
+    device: sam3x8
+    family_type: ARM Cortex M3
+keywords:
+- arduino
+- board
+- atmel
+- microchip
+- mikroe
+title: FlipNClick SAM3X Support Package
+...
